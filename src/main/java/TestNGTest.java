@@ -11,4 +11,9 @@ public class TestNGTest {
     public static void  method3(){
         System.out.println("Test3 added");
     }
+
+    @Test
+    public static void  method2(){
+        System.out.println("Test2");
+    }
 }
