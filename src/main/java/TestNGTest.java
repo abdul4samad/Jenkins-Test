@@ -9,7 +9,7 @@ public class TestNGTest {
 
     @Test
     public static void  method3(){
-        System.out.println("Test3 added to merge conflict");
+        System.out.println("Test3 rebasing");
     }
 
     @Test
