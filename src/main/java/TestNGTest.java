@@ -4,7 +4,7 @@ public class TestNGTest {
 
     @Test
     public static void  method1(){
-        System.out.println("Test1 modified");
+        System.out.println("Test1 modified. Appended 2");
     }
 
     @Test
