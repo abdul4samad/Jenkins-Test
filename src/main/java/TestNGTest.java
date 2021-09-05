@@ -9,7 +9,7 @@ public class TestNGTest {
 
     @Test
     public static void  method3(){
-        System.out.println("Test3 rebasing");
+        System.out.println("Test3 rebasing  123");
     }
 
     @Test
